@@ -1,4 +1,6 @@
 # Portfolio_Analysis
 
-This folder is for Portfolio analysis challenge
-Project is saved in Jupyter notebook under Starter_Code file, notebook name is "whale_analysis"
+## This folder is for Portfolio analysis challenge for week 4
+
+- Project is saved in Jupyter notebook under Starter_Code file.
+- Notebook name is "whale_analysis.ipynb".
